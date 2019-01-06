@@ -1,7 +1,8 @@
-// package main
 package IntPerm
 
 import "fmt"
+
+// リスト2-1
 
 var mdata []int
 
